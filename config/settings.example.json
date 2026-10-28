@@ -1,0 +1,17 @@
+{
+  "SchemaVersion": 1,
+  "PetHeight": 121.33333333333333,
+  "FollowNativeVisibility": false,
+  "FollowNativeSize": true,
+  "ShowTrayIcon": false,
+  "SmoothAnimations": false,
+  "AttachNativeControls": true,
+  "Topmost": true,
+  "PreferredThreadId": null,
+  "ChatThreadId": null,
+  "CodexHome": null,
+  "CodexExecutable": null,
+  "Actions": [],
+  "InteractionGroups": [],
+  "SpriteClips": []
+}

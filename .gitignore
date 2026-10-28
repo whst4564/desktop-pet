@@ -1,0 +1,34 @@
+# Generated builds, previews and local settings
+/dist/
+/build/
+/artifacts/
+/test-output/
+**/bin/
+**/obj/
+**/settings.json
+**/diagnostics.log
+**/*-check.json
+**/chat-workspace/
+**/*-fixture-*/
+**/rpc-fixtures-*/
+**/databridge-fixture-*/
+
+# Private account and conversation data
+auth.json
+*.jsonl
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
+
+# Local executables and libraries
+*.exe
+*.dll
+*.pdb
+*.zip
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
